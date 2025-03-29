@@ -1,21 +1,11 @@
-The project demonstrated several key **project management skills**. The **planning phase** included defining clear objectives and creating a **Work Breakdown Structure (WBS)** to organize tasks and ensure smooth execution. Financial management was crucial, with cost analysis, **ROI** calculation (222.08%), and a **payback period** of 2.16 years to track the project's profitability. 
+## Project Management:Smart Agriculture Monitoring System: SAMS "Your Farm, Our Technology"
+<img width="943" alt="Screenshot 2025-03-29 at 3 08 37 PM" src="https://github.com/user-attachments/assets/8e690442-0245-4fd7-871a-41bdb22812a9" />
 
-Scheduling was efficiently handled through the creation of a **Gantt chart** to manage timelines and task dependencies. **Risk management** was addressed through a **SWOT analysis**, identifying potential risks and opportunities early on. 
+My team and I applied core **project management principles** throughout the lifecycle of this project. We began with detailed **planning**, defining the project scope and creating a comprehensive **Work Breakdown Structure (WBS)** to organize tasks and deliverables. We established a **schedule** using a **network diagram** and **Gantt chart**, which helped us visualize dependencies, set milestones, and manage timelines effectively. Our **cost analysis** provided a clear view of budget allocation, while a thorough **SWOT analysis** guided us in identifying strengths, weaknesses, risks, and opportunities.
 
-A **communication plan** was developed to ensure consistent stakeholder engagement, using various channels for updates and feedback. Team coordination was facilitated with a **Responsibility Matrix**, ensuring roles were clearly assigned and accountability maintained. 
+We implemented **risk management** strategies early by anticipating potential issues and developing mitigation plans. To stay aligned with project goals, we tracked **Key Performance Indicators (KPIs)** during execution and deployment phases.
 
-Throughout the project, progress was tracked by monitoring key performance indicators (**KPIs**), ensuring alignment with the project goals. Finally, **lessons learned** were documented to improve future project management practices, focusing on agile methodologies and integration planning.
+Strong **communication** and **team coordination** were central to our approach. We followed a structured **communication plan**, held regular meetings, and maintained consistent stakeholder updates. A **responsibility matrix** was used to assign roles clearly, ensuring **accountability** and smooth collaboration.
 
-Sure! Here's the same README section with the **key project management skills highlighted** using bold formatting:
-
----
-
-## Project Management
-
-The team carried out thorough **planning** by defining a clear project scope and developing a detailed **Work Breakdown Structure (WBS)** that mapped all tasks and deliverables. A comprehensive **schedule** was then established using a **network diagram** and **Gantt chart** to outline task dependencies, milestones, and deadlines, allowing progress to be tracked effectively. The team conducted an in-depth **cost analysis** to create a realistic budget covering all project components and phases, ensuring the project stayed within its financial constraints. Potential challenges were addressed through proactive **risk management** – identifying technical and timeline risks early and implementing mitigation plans to minimize their impact on the project’s timeline and objectives.
-
-Effective **communication** and **team coordination** were equally crucial throughout the project. The team followed a formal **communication plan** with regular meetings, frequent stakeholder updates, and comprehensive documentation to keep everyone aligned with the project goals. **Roles and responsibilities** were clearly defined in a **responsibility matrix**, promoting **accountability** and preventing overlapping duties. This structured approach to project management fostered **collaboration** and **transparency**, enabling the team to deliver the project **on time, within scope, and within budget** while demonstrating strong project management skills.
-
----
-
-Let me know if you’d like this broken down into bullet points too for an even more scannable format.
+At the end of the project, we reflected on the process and documented key **lessons learned**—emphasizing the value of agile thinking, proactive planning, and continuous improvement. These practices helped us keep the project **on time, within scope, and under budget**, while strengthening our practical understanding of effective project management.
+<img width="939" alt="Screenshot 2025-03-29 at 3 08 56 PM" src="https://github.com/user-attachments/assets/a340f968-a3b7-4420-b19f-5eb40f066e65" />
